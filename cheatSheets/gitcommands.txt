@@ -1,0 +1,6 @@
+# Github commands cheat sheet
+
+git pull
+git add .
+git commit -m "label of commit"
+git push
